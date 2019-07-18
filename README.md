@@ -14,3 +14,7 @@ differently on the site.
 I spent today trying to work with githooks. I want to try and have an email be
 sent out whenever I update my 100 days of code repo to a few people to help me
 stay accountable to the challenge. Didn't figure it out just yet.
+
+## Day 3
+### July 17, 2019
+Finally figured out what I was doing wrong with my githook yesterday. Turned out I was using the wrong one.. Originally I was planning on using some 3rd party API to send emails, but I think I am going to configure my linux box to do it instead.
