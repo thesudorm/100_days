@@ -18,3 +18,9 @@ stay accountable to the challenge. Didn't figure it out just yet.
 ## Day 3
 ### July 17, 2019
 Finally figured out what I was doing wrong with my githook yesterday. Turned out I was using the wrong one.. Originally I was planning on using some 3rd party API to send emails, but I think I am going to configure my linux box to do it instead.
+
+
+## Day 4
+### July 17, 2019
+
+I figured out a really simple git hook that sends an email right before a git push is completed on my 100 days of code repo. These githooks seem super powerful.
