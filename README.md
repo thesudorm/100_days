@@ -24,3 +24,8 @@ Finally figured out what I was doing wrong with my githook yesterday. Turned out
 ### July 17, 2019
 
 I figured out a really simple git hook that sends an email right before a git push is completed on my 100 days of code repo. These githooks seem super powerful.
+
+## Day 5
+### July 18, 2019
+
+I am starting to finish my script for sending emails on git pushes. I figured out how to get the text from a git diff between a current and previous commit. The idea is that I can send the git in the body of an email. Should finish it tomorrow.
