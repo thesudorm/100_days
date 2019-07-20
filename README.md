@@ -29,3 +29,8 @@ I figured out a really simple git hook that sends an email right before a git pu
 ### July 18, 2019
 
 I am starting to finish my script for sending emails on git pushes. I figured out how to get the text from a git diff between a current and previous commit. The idea is that I can send the git in the body of an email. Should finish it tomorrow.
+
+## Day 6
+### July 19, 2019
+
+Still working on my bash hook to send an automated email. I am so close to being done. I just need to figure out why the file I am creating is not getting the correct text put into it.
