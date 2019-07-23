@@ -39,3 +39,8 @@ Still working on my bash hook to send an automated email. I am so close to being
 ### July 21, 2019
 
 I have a decent enough githook now to send automated emails. I think I want to work on making another githook for my blogging site though. I want to write something that can automatically deploy changes that I make to my life server. For tomorrow!
+
+## Day 8
+### July 22, 2019
+
+Still playing with git hooks. Trying to automate deploying my blogging site automatically. I also found a CSS issue with the website for mobile. I need to fix that tomorrow. For now I just removed a few rules.
