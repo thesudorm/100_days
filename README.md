@@ -44,3 +44,8 @@ I have a decent enough githook now to send automated emails. I think I want to w
 ### July 22, 2019
 
 Still playing with git hooks. Trying to automate deploying my blogging site automatically. I also found a CSS issue with the website for mobile. I need to fix that tomorrow. For now I just removed a few rules.
+
+## Day 9
+### July 23, 2019
+
+Today, I got a little sidetracked with a cool little toy that I got at Codeland this weekend. In the workshop I participated in, I was given  an MXChip (Arduino). I tried to get a gif to play on the screen, but the docs are kinda weird for Linux machines..
