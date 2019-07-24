@@ -49,3 +49,11 @@ Still playing with git hooks. Trying to automate deploying my blogging site auto
 ### July 23, 2019
 
 Today, I got a little sidetracked with a cool little toy that I got at Codeland this weekend. In the workshop I participated in, I was given  an MXChip (Arduino). I tried to get a gif to play on the screen, but the docs are kinda weird for Linux machines..
+
+##Day 9
+### July, 24, 2019
+
+I took another tangent today, but this time for a project that has been on the
+back burner for a while. I started working on a website for a church. There
+isn't much on it yet, but it is live on my github pages.
+[Link](https://thesudorm.github.io).
