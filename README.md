@@ -58,4 +58,16 @@ back burner for a while. I started working on a website for a church. There
 isn't much on it yet, but it is live on my github pages.
 [Link](https://thesudorm.github.io).
 
+##  Day 11
+### July, 25, 2019
 
+I forgot to tweet about it yesterday, but I ended up playing with an open-source
+project in my free time called Tildes. It's a website I frequent and have been
+interesting in contributing to. I still need to do my hour for today!
+
+## Day 12
+### July, 26, 2019
+
+Did some more work with Tildes. A lot of today was spend reading the source code
+of the site trying to get my bearings. The project is written in a python
+framework called Pyramid and I have no clue how to debug it.
